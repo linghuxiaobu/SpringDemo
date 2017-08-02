@@ -13,6 +13,7 @@ public class Maven {
 		logger.debug("1111111");
 		int age = 5/0;
 		logger.debug("222222222");
+		logger.debug("33333333333444444");
 		}catch(Exception e){
 			e.printStackTrace();
 			logger.error("出错了！！！");

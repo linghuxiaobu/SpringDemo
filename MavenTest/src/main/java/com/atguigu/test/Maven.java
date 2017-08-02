@@ -14,6 +14,7 @@ public class Maven {
 		int age = 5/0;
 		logger.debug("222222222");
 		logger.debug("33333333333444444");
+		logger.debug("55555555555555555555555555");
 		}catch(Exception e){
 			e.printStackTrace();
 			logger.error("出错了！！！");

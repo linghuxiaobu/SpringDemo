@@ -35,6 +35,7 @@ public class SpringDemo {
 		String s4 = "BC";
 		System.out.println(s4 == s5);//false
 		System.out.println("BC"==s6);//true
+		System.out.println("hahahha");
 	}
 	
 }
